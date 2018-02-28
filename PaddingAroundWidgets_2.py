@@ -1,8 +1,4 @@
-'''
-Created on Jun 5, 2015
-Recipe:  B04829_02_01
-@author: Burkhard
-'''
+
 #======================
 # imports
 #======================
